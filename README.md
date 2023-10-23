@@ -1,4 +1,5 @@
 # Simple_Calculator
+https://mohitpandey7797.github.io/Simple_Calculator/
 This is a basic web calculator project created using HTML, CSS, and JavaScript. It provides simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
